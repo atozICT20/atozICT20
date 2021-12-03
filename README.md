@@ -19,6 +19,6 @@ Here are some ideas to get you started:
 
 Also, familiar with cryptography.
 
-Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
+Built decentralised exchanges (Dexs) and lending platforms similar to [Uniswap](https://uniswap.org/) and [Aave](https://aave.com/).
 
 Skills: Smart Contracts, Web3, React.
