@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m working with Ethereum blockchain. Built and deployed architecture for complex blockchain solutions. Worked with DeFi offerings such as staking, farming, flashloans etc.
+
+Also, familiar with cryptography.
+
+Built decentralised exchanges (Dexs) and lending platforms similar to Uniswap and Aave.
+
+Skills: Smart Contracts, Web3, React.
